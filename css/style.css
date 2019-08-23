@@ -1,0 +1,12 @@
+.divSquare{
+    width:48%; height:200px; margin:4px; border:1px solid black; float: left
+}
+.rojo { background: #ff1744; }
+.azul { background: #3d5afe; }
+.verde { background: #76ff03; }
+.morado { background: #d500f9; }
+
+.rojoOpaco { background: #c4001d }
+.azulOpaco { background: #0031ca }
+.verdeOpaco { background: #32cb00 }
+.moradoOpaco { background: #9e00c5 }
